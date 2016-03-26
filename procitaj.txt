@@ -4,3 +4,4 @@ treci red
 cetvrti red
 
 qwerty
+novi test
